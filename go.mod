@@ -26,7 +26,7 @@ require (
 	github.com/sashabaranov/go-openai v1.24.0
 	github.com/stretchr/testify v1.9.0
 	github.com/tidwall/gjson v1.17.1
-	github.com/wailsapp/wails/v2 v2.8.2
+	github.com/wailsapp/wails/v2 v2.9.1
 	nhooyr.io/websocket v1.8.11
 )
 
